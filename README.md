@@ -4,4 +4,4 @@ Partial Gaussian Elimination (PGE) with Mixed Integer Quadratic Programming (MIQ
 Just for fun.
 Currently working on matrices in F2 (binary matrices).
 
-Implemented in python with CVXOPT.
+Implemented in sagemath.
